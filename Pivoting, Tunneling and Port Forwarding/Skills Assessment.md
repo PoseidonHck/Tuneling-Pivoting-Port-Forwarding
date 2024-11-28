@@ -92,6 +92,8 @@
 
 ## Conclusiones
 
-> Esta práctica del módulo **`Pivoting, Tunneling, and Port Forwarding`** de [**Hack The Box Academy**](https://academy.hackthebox.com/module/details/158) es una excelente forma de poner en práctica cómo se mueven los atacantes en una red empresarial segmentada, encontrando un **Host de Pivoteo** como punto de apoyo para comprometer otros sistemas.
+> Esta práctica del módulo **`Pivoting, Tunneling, and Port Forwarding`** de [**Hack The Box Academy**](https://academy.hackthebox.com/module/details/158) es una excelente forma de poner en práctica cómo se mueven los atacantes en una red empresarial segmentada, encontrando un **Host de Pivoteo** como punto de apoyo para comprometer otros sistemas. Finalizaremos dejando una imagen que explica de forma gráfica como estaba segmentada la red.
+
+![Skill Assessment](Imagenes/Skill-Assessment.png)
 
 ---
